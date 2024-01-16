@@ -1,5 +1,5 @@
 
-![Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsouciencia.unifesp.br%2Fsobre&psig=AOvVaw2CAVxOciNX_rtuR_Ve4BLR&ust=1705515124785000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIDzuIzB4oMDFQAAAAAdAAAAABAY)
+![Logo](https://souciencia.unifesp.br/images/logos/Sou_Cincia_RGB_1Linha_Oficial_Color.png)
 
 
 # Automation of Uploads to the Internet Archive

@@ -17,7 +17,7 @@ Python Script for Automating Uploads of Pandemic Archive Evidence to the Interne
 
 ## Acknowledgements
 
- - [Data Group of SoU_Ciência](https://souciencia.unifesp.br/sobre)
+ - [Data Science Team of SoU_Ciência Institute](https://souciencia.unifesp.br/sobre)
  - [Tide Setubal Foundation](https://fundacaotidesetubal.org.br/tide-setubal-foundation/)
  - [Serrapilhera Institute](https://serrapilheira.org/en/)
  - [Legislative Amendments](https://www2.camara.leg.br/english/the-national-congress-1/types-of-legislation)
